@@ -1,0 +1,10 @@
+gene: Gh_A12G1784
+motif_count in s1: 4
+motif_loc in s1:
+[0, 72, 186, 705]
+motif_count in s2: 6
+motif_loc in s2:
+[13, 121, 394, 448, 619, 631]
+motif_count in s3: 4
+motif_loc in s3:
+[5, 296, 581, 677]

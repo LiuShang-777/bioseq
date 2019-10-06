@@ -1,0 +1,12 @@
+gene: Gh_A12G1784
+length: 711
+GC content: 45
+number of ATG in s1 : 4
+location of ATG in s1 :
+[0, 72, 186, 705]
+number of ATG in s2 : 6
+location of ATG in s2 :
+[13, 121, 394, 448, 619, 631]
+number of ATG in s3 : 4
+location of ATG in s3 :
+[5, 296, 581, 677]
